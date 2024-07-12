@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="length_units">
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Feet</item>
+
+    </string-array>
+    <string-array name="weight_units">
+
+    <item>Milligrams</item>
+    <item>Grams</item>
+    <item>Kilograms</item>
+    <item>Pounds</item>
+    <item>Tons</item>
+
+    </string-array>
+    <string-array name="area_units">
+
+        <item>Square Meter</item>
+        <item>Square Yard</item>
+        <item>Square Foot</item>
+        <item>Square Inch</item>
+        <item>Hectare</item>
+        <item>Acre</item>
+
+    </string-array>
+    <string-array name="volume_unit">
+        <item>Liters</item>
+        <item>Milliliters</item>
+        <item>Gallons</item>
+        <item>Cups</item>
+
+    </string-array>
+
+    <string-array name="temp_unit">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+
+    </string-array>
+
+    <string-array name="time_unit">
+        <item>Milliseconds</item>
+        <item>Seconds</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+        <item>Days</item>
+        <item>Months</item>
+        <item>Years</item>
+    </string-array>
+
+    <string-array name="speed_unit">
+    <item>m/s</item>
+    <item>km/h</item>
+    <item>mi/h</item>
+    <item>ft/s</item>
+    </string-array>
+
+    <string-array name="dataunit">
+        <item>Bytes</item>
+        <item>Kilobytes</item>
+        <item>Megabytes</item>
+        <item>Gigabytes</item>
+        <item>Terabytes</item>
+    </string-array>
+
+</resources>
